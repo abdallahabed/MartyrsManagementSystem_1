@@ -23,7 +23,6 @@ StructPhase1/
 │     ├─ Martyer.java
 │     ├─ LinkedList.java
 │     ├─ Node.java
-│     └─ other utility classes
 ├─ images/
 │  ├─ locations_table.png
 │  ├─ martyes_info.png
@@ -68,11 +67,11 @@ StructPhase1/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/StructPhase1.git
+git clone https://github.com/abdallahabed/MartyrsManagementSystem_1.git
 ````
 
 2. Open the project in **IntelliJ IDEA** or **Eclipse** with **JavaFX support**
-3. Run the `CitiesTableView` main class
+3. Run the `StartClass` main class
 4. Ensure JavaFX SDK is properly linked
 
 ---
